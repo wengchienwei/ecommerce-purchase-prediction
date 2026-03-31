@@ -55,7 +55,12 @@ pip install -r requirements.txt
 ## Key Findings
 
 ### Feature Importance
+<details>
+<summary><b> Top 15 Feature Importances Figure </b></summary>
+  
 ![Feature Importances](figures/feature_importances.png)
+
+</details>
 
 **Top 3 predictive features:**
 1. **Items_in_Cart** (0.6 importance) - strong negative correlation with purchase
